@@ -1,0 +1,13 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+.color-tab{
+    display: block;
+    width: 500px;
+    height: 500px;
+    /* background-color: black; */
+    
+    text-align: center;
+    margin: auto;
+}
